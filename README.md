@@ -1,1 +1,1 @@
-# Projects
+This repository contains projects  showcasing my skills in web development, AI, and problem-solving. It demonstrates my proficiency in coding, project management, and creating functional, user-centric applications.
